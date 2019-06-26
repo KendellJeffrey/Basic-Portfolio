@@ -1,0 +1,89 @@
+/* nav bar start */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    padding-right: 150px;
+  }
+  
+  li {
+    float: right;
+    margin-left: 2%;
+  }
+  
+  #name {
+    display: inline;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-top: 10%;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  /* nav bar end */
+  .container {
+    padding-left: 10%;
+    padding-right: 9.5%;
+    /* border: 1px solid #111; */
+  }
+
+  #aboutme {
+    border: 1px solid #111;
+    padding-left:5%;
+  margin-top: 2%;
+    padding-right: 5%;
+  }
+
+  /* about me box */
+
+  .OGinline {
+      display: inline;
+      /* border: 1px solid green;  */
+      /* ^can make a green box around my OGinline eles^ */
+      /* float: left; */
+  }
+
+  #ogcatpic{
+    float: initial;
+  }
+
+  #ogp {
+      /* background-position-y: 10%; */
+    /* float: left; */
+    vertical-align: top;
+
+  }
+
+
+  /* inputs */
+
+  .sminput {
+    width: 100%;
+  }
+
+  .bginput {
+    width: 100%;
+  
+  }
+
+
+
+  /* input style section end */
+
+
